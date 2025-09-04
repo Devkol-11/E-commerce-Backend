@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "field-name-mapping-snake-case": ["error"],
+    "field-order": ["error", { "order": ["id", "..."] }],
+    "model-name-grammatical-number": ["error", { "style": "singular" }]
+  }
+}
